@@ -235,6 +235,7 @@ eval `dircolors ~/.dircolors`
 
 Symbolic Link
 
+```
 Project
 	config_file
 	Dev
@@ -245,3 +246,4 @@ Project
 		file1
 		file2
 		config_file (symbolic link)
+```
