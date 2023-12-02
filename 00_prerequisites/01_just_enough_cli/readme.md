@@ -19,7 +19,7 @@ Engineer
 	2.1 Nano
 	2.2 VIM
 3. Admin duties (ETL, BI)
-4. Git 
+4. Git
 5. IDE
 6. AWS/Azure/GCP - CLI (save time)
 7. Shortcuts (Alias)
@@ -41,10 +41,10 @@ Engineering Excellence
 Plugin:
 
 Mac OS: https://ohmyz.sh/
-Windows: 
+Windows:
 
 
-Install 
+Install
 
 
 Windows
@@ -113,7 +113,7 @@ Engineer
 	2.1 Nano
 	2.2 VIM
 3. Admin duties (ETL, BI)
-4. Git 
+4. Git
 5. IDE
 6. AWS/Azure/GCP - CLI (save time)
 7. Shortcuts (Alias)
@@ -135,10 +135,10 @@ Engineering Excellence
 Plugin:
 
 Mac OS: https://ohmyz.sh/
-Windows: 
+Windows:
 
 
-Install 
+Install
 
 
 Windows
@@ -244,3 +244,5 @@ Project
 		file2
 		config_file (symbolic link)
 ```
+
+OK
