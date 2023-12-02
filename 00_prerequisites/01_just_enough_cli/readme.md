@@ -230,9 +230,6 @@ nano ~/.zshrc
 eval `dircolors ~/.dircolors`
 ```
 
-
-
-
 Symbolic Link
 
 ```
