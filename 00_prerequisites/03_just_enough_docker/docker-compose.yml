@@ -1,7 +1,7 @@
-version: '3'
+version: "3"
 services:
   web:
-    build: ./web-app
+    image: surfalyticsregistry.azurecr.io/web-app:latest
     ports:
       - "80:80"
     depends_on:
