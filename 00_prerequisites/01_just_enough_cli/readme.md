@@ -336,7 +336,7 @@ echo $PATH
 `\`	backslash	Literals, macros (never directories)
 `$`	dollar	Variables, end of line
 `'`	tick, (single) quote	Literal strings
-`\``	backtick, backquote	Command substitution
+`	backtick, backquote	Command substitution
 `"`	double quote	Semi-literal strings
 `^`	caret	Negation, beginning of line
 `~`	tilde, squiggle	Negation, directory shortcut
