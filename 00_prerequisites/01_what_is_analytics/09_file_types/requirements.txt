@@ -1,0 +1,20 @@
+# Exact version
+Flask==1.1.2
+
+# Minimum version
+Django>=3.0
+
+# Specific version range
+requests>=2.20.0,<3
+
+# Install with extras
+gunicorn[gevent]==20.0.4
+
+# Latest version of a library
+numpy
+
+# Install from a GitHub repository at a specific commit
+-e git+https://github.com/psf/requests.git@f4f23456789abcdef123456789abcdef12345678#egg=requests
+
+# Install from a URL (wheel file in this case)
+http://example.com/packages/package_name-0.1-py3-none-any.whl

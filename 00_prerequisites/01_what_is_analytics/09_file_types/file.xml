@@ -1,0 +1,42 @@
+<People>
+  <Person ID="1">
+    <Name>John Doe</Name>
+    <Age>30</Age>
+    <Contact>
+      <Email>john.doe@example.com</Email>
+      <Phone>123-456-7890</Phone>
+    </Contact>
+  </Person>
+  <Person ID="2">
+    <Name>Jane Smith</Name>
+    <Age>25</Age>
+    <Contact>
+      <Email>jane.smith@example.com</Email>
+      <Phone>098-765-4321</Phone>
+    </Contact>
+  </Person>
+  <Person ID="3">
+    <Name>Bob Johnson</Name>
+    <Age>28</Age>
+    <Contact>
+      <Email>bob.johnson@example.com</Email>
+      <Phone>555-555-5555</Phone>
+    </Contact>
+  </Person>
+  <Person ID="4">
+    <Name>Alice Williams</Name>
+    <Age>22</Age>
+    <Contact>
+      <Email>alice.williams@example.com</Email>
+      <Phone>666-666-6666</Phone>
+    </Contact>
+  </Person>
+  <Person ID="5">
+    <Name>Charlie Brown</Name>
+    <Age>33</Age>
+    <Contact>
+      <Email>charlie.brown@example.com</Email>
+      <Phone>777-777-7777</Phone>
+    </Contact>
+  </Person>
+</People>

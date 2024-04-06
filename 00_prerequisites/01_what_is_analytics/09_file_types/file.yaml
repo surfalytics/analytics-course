@@ -1,0 +1,12 @@
+# A nested structure
+employees:
+  - name: John Doe
+    age: 30
+    roles:
+      - Developer
+      - Analyst
+  - name: Jane Smith
+    age: 28
+    roles:
+      - Manager
+      - Designer
