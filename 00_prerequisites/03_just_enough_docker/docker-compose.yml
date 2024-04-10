@@ -1,7 +1,7 @@
 version: "3"
 services:
   web:
-    image: surfalyticsregistry.azurecr.io/web-app:latest
+    image: web-app-container:v0.1
     ports:
       - "80:80"
     depends_on:
