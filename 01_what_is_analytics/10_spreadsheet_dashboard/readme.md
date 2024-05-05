@@ -1,4 +1,4 @@
-# Dashboard in Spreadshit
+# Dashboard in Spreadsheet
 Using Sample - Superstore.xls data set we should:
 
 - Try to use `Lookup` function
