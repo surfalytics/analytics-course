@@ -4,7 +4,7 @@ Using Sample - Superstore.xls data set we should:
 - Try to use `Lookup` function
 - Build Pivot table
 - Build a Dashboard/Report
-- Use any kind of Excel/Google Sheet finctionality
+- Use any kind of Excel/Google Sheet functionality
 
 Key Metrics Ideas:
 - Total Sales
