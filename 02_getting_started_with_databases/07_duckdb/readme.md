@@ -100,7 +100,7 @@ If we are dealing with long nested JSON, we can change the mode to `line` or 
 
 ```bash
 .mode line
-SELECT * FROM 'data/semistructuredfile.json';
+SELECT * FROM 'data/namesfile.json';
 ```
 
 We can output the result to a Markdown file, by setting the display mode to Markdown with `.mode markdown`.
